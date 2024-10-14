@@ -1,0 +1,23 @@
+name: utilities
+description: "A Flutter Program That Includes A Lot Of Amazing Utilities To Use In Every Day Life"
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  qr_flutter: ^4.1.0
+  translator: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+flutter:
+  uses-material-design: true
